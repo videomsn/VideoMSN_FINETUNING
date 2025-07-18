@@ -1,6 +1,6 @@
-# SIFAR-MSN-FINETUNING
+# VideoMSN-FINETUNING
 
-This repository contains a PyTorch implementation of SIFAR-MSN.
+This repository contains a PyTorch implementation of VideoMSN.
 
 
 # Usage
@@ -11,7 +11,7 @@ git clone https://github.com/videomsn/VideoMSN_FINETUNING.git
 ```
 ## Requirements
 ```
-conda env create --name sifar_msn --file sifar_msn.yml
+conda env create --name sifar_msn --file videomsn.yml
 ```
 
 <!-- To load video input, you need to install the [PyAV package](https://pyav.org/docs/develop/overview/installation.htmlgit). -->
